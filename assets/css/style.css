@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 .left-container {
-    position: 100px;
+    position: 100%;
     width: 400px;
     height: 100vh;
     background-color: #003049;
@@ -39,7 +39,7 @@ body {
 }
 
 .right-container{
-    color: #a8dadc;
+    background-color: #a8dadc;
     position: absolute;
     left: 400px;
 }
