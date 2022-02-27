@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 .left-container {
-    position: fixed;
+    position: 100px;
     width: 400px;
     height: 100vh;
     background-color: #003049;
