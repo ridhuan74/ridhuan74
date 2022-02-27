@@ -39,6 +39,7 @@ body {
 }
 
 .right-container{
+    color: #a8dadc;
     position: absolute;
     left: 400px;
 }
